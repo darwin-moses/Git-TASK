@@ -1,3 +1,2 @@
 let b = [7,9,0,9,30];
 let c = b.map((e)) =>{return e * 2 };
-console.log((c)
